@@ -36,20 +36,20 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ### Example
 
 ```md
-# This is an `<h1>` header, which is the largest
+# This is an `<h1>` header, 一级标题
 
-## This is an `<h2>` header
+## This is an `<h2>`  二级标题
 
 ###### This is an `<h6>` header, which is the smallest
 ```
 
 #### How it looks
 
-# This is an `<h1>` header, which is the largest
+# This is an `<h1>` header, 一级标题
 
-## This is an `<h2>` header
+## This is an `<h2>` 二级标题
 
-###### This is an `<h6>` header, which is the smallest
+###### This is an `<h6>` header, 最小的标题
 
 ### :keyboard: Activity: Edit your file with headers
 
